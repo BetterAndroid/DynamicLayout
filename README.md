@@ -1,12 +1,11 @@
-DynamicCardLayout
+DynamicLayout
 =================
 
-类似Google+ Android客户端的动态布局 
+Android动态布局 
 
-![Screenshot](https://github.com/dodola/DynamicCardLayout/blob/master/pic1.png?raw=true)
+![Screenshot](https://github.com/BetterAndroid/DynamicLayout/blob/master/pic/360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0520_17_45_01.png?raw=true)
 
-![Screenshot](https://github.com/dodola/DynamicCardLayout/blob/master/pic2.png?raw=true)
+![Screenshot](https://github.com/BetterAndroid/DynamicLayout/blob/master/pic/360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0520_17_45_02.png?raw=true)
 
-![Screenshot](https://github.com/dodola/DynamicCardLayout/blob/master/pic3.png?raw=true)
+![Screenshot](https://github.com/BetterAndroid/DynamicLayout/blob/master/pic/360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0520_17_46_01.png?raw=true)
 
-![Screenshot](https://github.com/dodola/DynamicCardLayout/blob/master/picnew.png?raw=true)
